@@ -1,0 +1,12 @@
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.exe
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.deps.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.runtimeconfig.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.runtimeconfig.dev.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\bin\Debug\netcoreapp3.1\ReadFileExample.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\ReadFileExample\obj\Debug\netcoreapp3.1\ReadFileExample.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yr3tLQqGVUiCaubOY8ErXAVcFkebx/OyQWVrwVrG1uad34giVaQA46Rw3cEe74Iq2cNr4EiDNvuQZrnhK3pngQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\ReadFileExample\\ReadFileExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

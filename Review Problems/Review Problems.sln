@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes and Files", "Classes and Files\Classes and Files.csproj", "{3E614D88-6F0D-4F15-BF5E-ECC995A723D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes and Files", "Classes and Files\Classes and Files.csproj", "{3E614D88-6F0D-4F15-BF5E-ECC995A723D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileExample", "ReadFileExample\ReadFileExample.csproj", "{4607F657-E635-43A3-A565-F358EE3FFD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreDifficultStudent", "MoreDifficultStudent\MoreDifficultStudent.csproj", "{C25BFC71-0339-4940-A958-CD69D7CAEA4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3E614D88-6F0D-4F15-BF5E-ECC995A723D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E614D88-6F0D-4F15-BF5E-ECC995A723D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E614D88-6F0D-4F15-BF5E-ECC995A723D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4607F657-E635-43A3-A565-F358EE3FFD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4607F657-E635-43A3-A565-F358EE3FFD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4607F657-E635-43A3-A565-F358EE3FFD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4607F657-E635-43A3-A565-F358EE3FFD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25BFC71-0339-4940-A958-CD69D7CAEA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25BFC71-0339-4940-A958-CD69D7CAEA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25BFC71-0339-4940-A958-CD69D7CAEA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25BFC71-0339-4940-A958-CD69D7CAEA4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\source\\repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {}
+    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\source\\repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {
+    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
         "projectName": "Classes and Files",
-        "projectPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
+        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\Review Problems\\Classes and Files\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
