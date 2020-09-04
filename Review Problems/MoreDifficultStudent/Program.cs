@@ -6,7 +6,22 @@ namespace MoreDifficultStudent
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+
+            Student myStudent = new Student(5, "Nic", "Keller", 100000);
+            Console.WriteLine(myStudent);
+
+            myStudent.MakePayment(500);
+            Console.WriteLine(myStudent);
+
+            myStudent.MakePayment(500);
+            Console.WriteLine(myStudent);
+
+            
+
+
+
         }
     }
 }

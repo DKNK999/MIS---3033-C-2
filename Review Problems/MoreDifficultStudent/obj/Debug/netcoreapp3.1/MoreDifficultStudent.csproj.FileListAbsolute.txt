@@ -1,0 +1,13 @@
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.csprojAssemblyReference.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.exe
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.deps.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.runtimeconfig.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.runtimeconfig.dev.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\bin\Debug\netcoreapp3.1\MoreDifficultStudent.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\MoreDifficultStudent\obj\Debug\netcoreapp3.1\MoreDifficultStudent.genruntimeconfig.cache
