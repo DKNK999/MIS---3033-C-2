@@ -1,0 +1,19 @@
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.exe
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.deps.json
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.runtimeconfig.json
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.dll
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\bin\Debug\netcoreapp3.1\WPF Intro.pdb
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro_MarkupCompile.cache
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro_MarkupCompile.lref
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.g.resources
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.AssemblyInfo.cs
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.dll
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.pdb
+C:\Users\nicho\source\repos\MIS-3033\In Class Example\WPF Intro\obj\Debug\netcoreapp3.1\WPF Intro.genruntimeconfig.cache
