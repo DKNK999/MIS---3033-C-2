@@ -1,0 +1,19 @@
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example_MarkupCompile.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example_MarkupCompile.lref
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.exe
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.deps.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.runtimeconfig.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.runtimeconfig.dev.json
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\bin\Debug\netcoreapp3.1\CSV Example.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.g.resources
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.dll
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.genruntimeconfig.cache
+C:\Users\nicho\Source\Repos\MIS-3033\Review Problems\CSV Example\obj\Debug\netcoreapp3.1\CSV Example.csprojAssemblyReference.cache
