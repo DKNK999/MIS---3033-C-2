@@ -1,0 +1,19 @@
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.exe
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.deps.json
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.runtimeconfig.json
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.dll
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\bin\Debug\netcoreapp3.1\First WPF App - Participation.pdb
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation_MarkupCompile.cache
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation_MarkupCompile.lref
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.g.resources
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.AssemblyInfo.cs
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.dll
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.pdb
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.genruntimeconfig.cache
+C:\Users\nicho\source\repos\MIS-3033\First WPF App - Participation\First WPF App - Participation\obj\Debug\netcoreapp3.1\First WPF App - Participation.csprojAssemblyReference.cache
