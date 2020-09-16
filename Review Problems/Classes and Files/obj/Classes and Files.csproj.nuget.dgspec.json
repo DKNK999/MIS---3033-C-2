@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {}
+    "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {
+    "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
         "projectName": "Classes and Files",
-        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
+        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\Classes and Files\\Classes and Files.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\Classes and Files\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\Classes and Files\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -47,18 +51,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
