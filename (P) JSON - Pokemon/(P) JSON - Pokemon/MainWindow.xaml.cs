@@ -106,6 +106,7 @@ namespace _P__JSON___Pokemon
             }
             img_PokemonImg.Source = spriteImages[i];
             btn_Previous.IsEnabled = false;
+            btn_Next.IsEnabled = true;
         }
 
         public BitmapImage ConvertToBitmap(string spriteURL)
