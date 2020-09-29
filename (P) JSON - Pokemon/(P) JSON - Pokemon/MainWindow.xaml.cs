@@ -52,6 +52,9 @@ namespace _P__JSON___Pokemon
 
         private void combobx_Characters_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            i = 0;
+            btn_Previous.IsEnabled = false;
+            btn_Next.IsEnabled = false;
             Pokemon selectedPokemon = (Pokemon)combobx_Characters.SelectedItem;
             string pokemonURL = selectedPokemon.url;
 
@@ -104,9 +107,15 @@ namespace _P__JSON___Pokemon
             {
                 spriteImages.Add(ConvertToBitmap(sprite));
             }
-            img_PokemonImg.Source = spriteImages[i];
-            btn_Previous.IsEnabled = false;
-            btn_Next.IsEnabled = true;
+            if (spriteImages.Count > 0)
+            {
+                img_PokemonImg.Source = spriteImages[i];
+            }
+            if (spriteImages.Count > 1)
+            {
+                btn_Previous.IsEnabled = false;
+                btn_Next.IsEnabled = true;
+            }
         }
 
         public BitmapImage ConvertToBitmap(string spriteURL)
@@ -136,7 +145,7 @@ namespace _P__JSON___Pokemon
         {
             i = i + 1;
             img_PokemonImg.Source = spriteImages[i];
-            if (i == spriteImages.Count -1)
+            if (i == spriteImages.Count - 1)
             {
                 btn_Next.IsEnabled = false;
             }
