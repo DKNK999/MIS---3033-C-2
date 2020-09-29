@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cbMhG9Rg7D/XYOsfFWX27mOB/TqmzUXhIZ7Thg7EG5eHrL8Md9D/hW2r0qnHcoFpYa3jBevQoyRdYY86OH6nGA==",
+  "dgSpecHash": "TxufasQHNWbzyfVem2pL5cXGJSLCplfGaFUQgf2165+0s8eVQg96mLdsOq9yeNOiGnxMRByIKDUdJ0SxmrCLxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\Review Problems\\CSV Example\\CSV Example.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\Review Problems\\CSV Example\\CSV Example.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800"
+        Background="MediumPurple">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="365*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="273*"/>
+            <ColumnDefinition Width="127*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="lbx_ApplicantInfo" VerticalAlignment="Top" HorizontalAlignment="Center" Width="200" Height="660" Grid.Column="1" Grid.Row="1" Margin="0,35,0,0"/>
+        <Label x:Name="lbl_ApplicantInfo" Content="Applicant Information" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="0,0,0,5" VerticalAlignment="Top" Width="200"/>
+        <Button x:Name="btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="100,95,0,0" Width="120" Grid.Row="1" VerticalAlignment="Top" Click="btn_Submit_Click"/>
+        <Label x:Name="lbl_Name" Content="Name:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Width="70"/>
+        <Label x:Name="lbl_Address" Content="Address:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="10,30,0,0" Grid.Row="1" Grid.Column="0"  VerticalAlignment="Top" Width="70"/>
+        <Label x:Name="lbl_Zipcode" Content="Zipcode:" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="10,60,0,0" Grid.Row="1" Grid.Column="0"  VerticalAlignment="Top" Width="70"/>
+        <TextBox x:Name="txtbx_Name" HorizontalAlignment="Left" Margin="100,5,0,0" Grid.Row="1" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbx_Address" HorizontalAlignment="Left" Margin="100,35,0,0" Grid.Row="1" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbx_Zipcode" HorizontalAlignment="Left" Margin="100,65,0,0" Grid.Row="1" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
