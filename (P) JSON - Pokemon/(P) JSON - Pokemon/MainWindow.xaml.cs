@@ -111,6 +111,10 @@ namespace _P__JSON___Pokemon
             {
                 img_PokemonImg.Source = spriteImages[i];
             }
+            else
+            {
+                img_PokemonImg.Source = null;
+            }
             if (spriteImages.Count > 1)
             {
                 btn_Previous.IsEnabled = false;
