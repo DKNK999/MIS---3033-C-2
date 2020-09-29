@@ -14,8 +14,8 @@
         <Label x:Name="lbl_Pokemon" Content="Pokemon&#xD;&#xA;" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Width="420" Height="99" FontFamily="Arial Black" FontSize="72" Grid.ColumnSpan="2" Margin="290,0,0,0"/>
         <ComboBox x:Name="combobx_Characters" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top" Width="300" SelectionChanged="combobx_Characters_SelectionChanged"/>
         <Image x:Name="img_PokemonImg" Grid.Column="1" HorizontalAlignment="Stretch" Height="200" Margin="0,0,0,0" VerticalAlignment="Stretch" Width="200"/>
-        <Button x:Name="btn_Previous" Content="Previous" Grid.Column="1" HorizontalAlignment="Left" Margin="30, 0, 0, 0" VerticalAlignment="Center" Width="100"/>
-        <Button x:Name="btn_Next" Content="Next" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,30,0" VerticalAlignment="Center" Width="100"/>
+        <Button x:Name="btn_Previous" Content="Previous" Grid.Column="1" HorizontalAlignment="Left" Margin="30, 0, 0, 0" VerticalAlignment="Center" Width="100" IsEnabled="False" Click="btn_Previous_Click"/>
+        <Button x:Name="btn_Next" Content="Next" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,30,0" VerticalAlignment="Center" Width="100" Click="btn_Next_Click"/>
         <Label x:Name="lbl_PickACharacter" Content="Pick a Character" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="0,120,0,0" VerticalAlignment="Top" Width="300" FontFamily="Arial Black" FontSize="16"/>
         <TextBox x:Name="txtbx_PokemonInfo" HorizontalAlignment="Center" Margin="0,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Height="50" Width="300" IsReadOnly="True"/>
 
