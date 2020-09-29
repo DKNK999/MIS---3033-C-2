@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Windows.Documents;
 
 namespace _P__JSON___Pokemon
 {
@@ -33,7 +34,7 @@ namespace _P__JSON___Pokemon
     }
 
     public class Sprite
-    { 
+    {
         public string back_default { get; set; }
         public string back_female { get; set; }
         public string back_shiny { get; set; }
@@ -42,7 +43,7 @@ namespace _P__JSON___Pokemon
         public string front_female { get; set; }
         public string front_shiny { get; set; }
         public string front_shiny_female { get; set; }
-        
+
     }
 
 }
