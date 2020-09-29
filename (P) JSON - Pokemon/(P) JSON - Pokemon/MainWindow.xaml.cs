@@ -23,11 +23,16 @@ namespace _P__JSON___Pokemon
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<BitmapImage> spriteImages = new List<BitmapImage>();
+        int i = 0;
+
         public MainWindow()
         {
             InitializeComponent();
 
             string apiURL = @"https://pokeapi.co/api/v2/pokemon?limit=2000";
+            
+
 
             PokemonAPI api;
             using (var client = new HttpClient())
@@ -60,17 +65,84 @@ namespace _P__JSON___Pokemon
 
             txtbx_PokemonInfo.Text = $"Height: {pokemonInfo.height}\nWeight: {pokemonInfo.weight}";
 
-            
-            var spriteURL = pokemonInfo.sprites.front_default;
+            List<string> spriteURLs = new List<string>();
+            if (pokemonInfo.sprites.front_default != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.front_default);
+            }
+            if (pokemonInfo.sprites.back_default != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.back_default);
+            }
+            if (pokemonInfo.sprites.front_female != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.front_female);
+            }
+            if (pokemonInfo.sprites.back_female != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.back_female);
+            }
+            if (pokemonInfo.sprites.front_shiny != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.front_shiny);
+            }
+            if (pokemonInfo.sprites.back_shiny != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.back_shiny);
+            }
+            if (pokemonInfo.sprites.front_shiny_female != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.front_shiny_female);
+            }
+            if (pokemonInfo.sprites.back_shiny_female != null)
+            {
+                spriteURLs.Add(pokemonInfo.sprites.back_shiny_female);
+            }
 
+            spriteImages.Clear();
+            foreach (var sprite in spriteURLs)
+            {
+                spriteImages.Add(ConvertToBitmap(sprite));
+            }
+            img_PokemonImg.Source = spriteImages[i];
+            btn_Previous.IsEnabled = false;
+        }
+
+        public BitmapImage ConvertToBitmap(string spriteURL)
+        {
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
             bitmap.UriSource = new Uri(spriteURL, UriKind.Absolute);
             bitmap.EndInit();
-            
-            img_PokemonImg.Source = bitmap;
+            return bitmap;
         }
 
-        
+        private void btn_Previous_Click(object sender, RoutedEventArgs e)
+        {
+            i = i - 1;
+            img_PokemonImg.Source = spriteImages[i];
+            if (i == 0)
+            {
+                btn_Previous.IsEnabled = false;
+            }
+            if (i < spriteImages.Count - 1)
+            {
+                btn_Next.IsEnabled = true;
+            }
+        }
+
+        private void btn_Next_Click(object sender, RoutedEventArgs e)
+        {
+            i = i + 1;
+            img_PokemonImg.Source = spriteImages[i];
+            if (i == spriteImages.Count -1)
+            {
+                btn_Next.IsEnabled = false;
+            }
+            if (i > 0)
+            {
+                btn_Previous.IsEnabled = true;
+            }
+        }
     }
 }
