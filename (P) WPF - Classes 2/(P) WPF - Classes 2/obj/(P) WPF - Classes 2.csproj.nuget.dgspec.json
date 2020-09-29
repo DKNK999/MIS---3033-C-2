@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {}
+    "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {
+    "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
-        "projectName": "WPF Intro",
-        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
+        "projectName": "(P) WPF - Classes 2",
+        "projectPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
