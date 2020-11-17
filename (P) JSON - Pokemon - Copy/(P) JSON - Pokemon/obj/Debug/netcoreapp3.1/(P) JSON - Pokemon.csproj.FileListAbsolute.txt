@@ -1,0 +1,63 @@
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.lref
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.exe
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.deps.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.g.resources
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfo.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CopyComplete
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.genruntimeconfig.cache
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.exe
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.deps.json
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.json
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.dev.json
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csprojAssemblyReference.cache
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.cache
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.lref
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.g.resources
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CopyComplete
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\Source\Repos\MIS-3033\(P) JSON - Pokemon\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.genruntimeconfig.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.exe
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.deps.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon_MarkupCompile.lref
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.g.resources
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.AssemblyInfo.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.csproj.CopyComplete
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Pokemon - Copy\(P) JSON - Pokemon\obj\Debug\netcoreapp3.1\(P) JSON - Pokemon.genruntimeconfig.cache

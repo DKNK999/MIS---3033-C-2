@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIcy+kKmAKN/kNfJRIisOna4XbAjP6G04RZtXWRXIqJDMemPpGtU0yeIxRa6tRSDf4+y22GTsjHwEdl/yIBQFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\(P) JSON - Chuck Norris Jokes\\(P) JSON - Chuck Norris Jokes\\(P) JSON - Chuck Norris Jokes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

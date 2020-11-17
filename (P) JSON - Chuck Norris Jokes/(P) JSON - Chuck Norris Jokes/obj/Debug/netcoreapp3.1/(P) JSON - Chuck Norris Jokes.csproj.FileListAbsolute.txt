@@ -1,0 +1,21 @@
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.exe
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.deps.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.runtimeconfig.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes_MarkupCompile.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes_MarkupCompile.lref
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.g.resources
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.AssemblyInfo.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.genruntimeconfig.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) JSON - Chuck Norris Jokes\(P) JSON - Chuck Norris Jokes\obj\Debug\netcoreapp3.1\(P) JSON - Chuck Norris Jokes.csproj.CopyComplete

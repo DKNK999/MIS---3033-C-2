@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
       "projectName": "(P) WPF - Classes 2",
-      "projectPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
+      "projectPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\(P) WPF - Classes 2.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\source\\repos\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\obj\\",
+      "outputPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\(P) WPF - Classes 2\\(P) WPF - Classes 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,12 +53,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -67,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {}
+    "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {
+    "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
         "projectName": "WPF Intro",
-        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
+        "projectPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,12 +47,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -61,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

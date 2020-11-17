@@ -1,0 +1,21 @@
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.exe
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.deps.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.runtimeconfig.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3_MarkupCompile.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3_MarkupCompile.lref
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.g.resources
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.AssemblyInfo.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.dll
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.pdb
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.genruntimeconfig.cache
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\StudentInfo.g.cs
+C:\Users\nicho\source\repos\DKNK999\MIS-3033\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\StudentInfo.baml

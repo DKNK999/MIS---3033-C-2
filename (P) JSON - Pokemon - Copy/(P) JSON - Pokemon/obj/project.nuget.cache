@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzhvt4NNlbk/suSjTUGRVK+kPwnR1KadU7gxpVP00hATxLegpceio0SEBqr1tesS7IRHxbJFAsEt/c9RTUortw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicho\\source\\repos\\DKNK999\\MIS-3033\\(P) JSON - Pokemon - Copy\\(P) JSON - Pokemon\\(P) JSON - Pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

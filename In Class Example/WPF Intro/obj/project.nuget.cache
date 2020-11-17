@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pm71ClAm5JtSnwaILHoYoXwhFUH2TNlzTLEYu+cg6vpXCeN3FtYHSYfeJ13552dwhZzVpH+gsWL3U+uKvRgcKg==",
+  "dgSpecHash": "AK4PdxUShqX9Yi8n3FKkP+9muc7bYm1q8MqKtFVLvcpZghXIoW9+2Pj1/gK2phQX7tVPTq+ljRDXnaTWdMZysA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nicho\\Source\\Repos\\DKNK999\\MIS-3033\\In Class Example\\WPF Intro\\WPF Intro.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
